@@ -1,0 +1,7 @@
+Product: ID - Name - Price - Quantity - Category ID
+Tx-32382,Tui Xach,12.1,168,Tk12312
+Bb-12345,Bo Bit Tet,5.2,9,Ta-12314
+Cr-12412,Ca Ri,4.2,10,Ta-12314
+At-12671,Ao Thun,8.7,120,Mm-11181
+Ac-12812,Ao Cotton,7.5,89,Mm-11181
+TX-32382,Hoa Vai,12.2,12,TK-12312

@@ -1,0 +1,2 @@
+Product: ID - Name - Price - Quantity - Category ID
+SE-12345,Bo Bit Tet,5.2,9,SE-12312
